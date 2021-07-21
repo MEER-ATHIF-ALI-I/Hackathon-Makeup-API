@@ -1,0 +1,10 @@
+.cards {
+  background-color: rgba(22, 162, 218, 0.781);
+  padding: 90px 95px 90px 40px ;
+  font-family: 'Abril Fatface', cursive;
+  font-family: 'Pacifico', cursive;
+}
+body {
+  background-image: url("images/61feb55262ea7a2e2ac9f5f82555abef.jpg");
+  background-attachment: fixed;
+}
